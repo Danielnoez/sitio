@@ -7,7 +7,11 @@
   box-sizing: border-box; }
 
 body {
+<<<<<<< HEAD
   background-color: #96813c;
+=======
+  background-color: #27f738;
+>>>>>>> verde
   font-family: "Open Sans", sans-serif;
   color: #FFF;
   overflow-x: hidden; }
